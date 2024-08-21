@@ -1,0 +1,4 @@
+.loader {
+    transition: all 1s ease-out;
+    opacity: .9;
+}
